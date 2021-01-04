@@ -1,0 +1,19 @@
+Abyssal	
+Celestial	
+Common	
+Deep Speech	
+Draconic	
+Druidic	
+Dwarvish	
+Elvish	
+Giant	
+Gnomish
+Goblin	
+Gnoll	
+Halfling	
+Infernal	
+Orc		
+Primordial	
+Sylvan	
+Terran
+Undercommonn

@@ -1,0 +1,12 @@
+Padded
+Leather
+Studded
+Hide
+Chainshirt
+Scale
+Breastplate
+Halfplate
+Ringmail
+Chainmail
+Splint
+Plate
